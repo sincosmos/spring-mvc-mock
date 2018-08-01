@@ -1,0 +1,8 @@
+target/
+.idea/
+.DS_Store
+*.iml
+src/test/
+*.docx
+*.zip
+*.properties
